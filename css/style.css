@@ -1,3 +1,6 @@
+body{
+	font-family: Arial;
+}
 header{
 	padding: 15px 0;
 	margin: 0;
@@ -44,27 +47,63 @@ nav a{
 nav a:hover{
 	color: #fff;
 }
-
+/*Sección de "latest episodes"*/
 .latepisodes{
 	background: #e1e1ea;
 	padding-bottom: 50px;
 	padding-top: 20px;
+
+}
+/*Sección de imagenes*/
+.images{
+	margin-top: 50px;
+	margin-left: -150px;
 }
 
-
 .imgtam{
-	width: 100px;
-	height: 100px;
+	width: 125px;
+	height: 125px;
+	margin-bottom: 25px;
 }
 /*Imagenes de la seccción Latest episodes*/
 .imgeptam{
-	width: 290px;
-	height: 290px;
+	width: 275px;
+	height: 275px;
 
 }
+/*Sección de suscripción*/
 .suscripcion{
+	font-size: 15px;
 
 }
-footer{
-	background: #e1e1ea; 
+.footer{
+	background: ; 
+}
+.ulfooter{
+
+}
+a:link{
+	text-decoration: none;
+	
+}
+a{
+	color: #2e5cb8;
+}
+ul>li{
+	list-style-type: none;
+}
+.inline{
+	display: inline;
+}
+.icotam{
+	width: 15px;
+	height: 15px;
+}
+.inline{
+	display: inline-block;
+
+}
+hr{
+	width: 250px;
+	border: 2px solid #c2c2d6;
 }
