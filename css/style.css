@@ -61,6 +61,11 @@ h3{
 	margin-top: 50px;
 	margin-left: -150px;
 }
+h6{
+	margin-top: -20px;
+	margin-bottom: 15px;
+	text-align: center;
+}
 /*imágenes del cuerpo*/
 .imgtam{
 	background-color: white;
@@ -111,7 +116,7 @@ ul>li{
 }
 .icotam{
 	height: 15px;
-	margin-bottom:  5px;
+	margin-bottom: 5px;
 	width: 15px;
 
 }
@@ -158,4 +163,7 @@ hr{
 span{
 	font-size: 13px;
 	margin-left: 10px;
+}
+.subtitulosimg{
+	
 }
